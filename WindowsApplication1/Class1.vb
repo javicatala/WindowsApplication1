@@ -1,3 +1,3 @@
 ﻿Public Class Class1
-    Dim prueba As Integer
+    Dim prueba As String
 End Class
